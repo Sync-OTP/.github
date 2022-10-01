@@ -29,6 +29,12 @@ We will be extending our Project to access OTPs/Verification codes sent on Mails
 
 and Lot of other Improvements in Future to make the Project reach millions and trust ASHSYNCER's.
 
+## Participants
+SUGAM B KUBER
+ANJAY GUPTA
+PRATYUSH K
+SAI SREEKAR
+
 ## ScreenShots
 
 ![image](https://user-images.githubusercontent.com/86460476/193431692-491ade23-38ef-4b3b-bcba-8a9e3552fd8d.png)

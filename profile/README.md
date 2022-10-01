@@ -28,3 +28,7 @@ When most people are Lazy to open phone while using PCs, we make it easy for the
 We will be extending our Project to access OTPs/Verification codes sent on Mails.Insted of opening your mail in new tab and copy pasting it to the website, The Extension/App will read the mail and send Show the OTP on the website you are using with just one click which be secure and effortless. Also we will be making the OTP transfer using Bluetooth/Wifi-Hotspot/LAN so that the DATA doesnt have to go through the internet or the phone to have internet connection 24*7
 
 and Lot of other Improvements in Future to make the Project reach millions and trust ASHSYNCER's.
+
+## ScreenShots
+
+![image](https://user-images.githubusercontent.com/86460476/193431692-491ade23-38ef-4b3b-bcba-8a9e3552fd8d.png)
